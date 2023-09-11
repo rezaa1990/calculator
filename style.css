@@ -1,0 +1,26 @@
+#display{
+    
+    padding: 5px;
+    font-size: 30px;
+}
+
+.buttons{
+    padding: 10px;
+    border: 10px;
+}
+
+button{
+    border-radius: 10%;
+    color: white;
+    background-color: #176B87;
+    width: 67px;
+    height: 40px;
+    font-size: 20px;
+    margin: 2px;
+    padding: 0px;
+    border: 0px;
+}
+
+button:hover{
+    background-color: #053B50;
+}
